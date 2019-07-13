@@ -1,14 +1,219 @@
 let ginsoy = {
+    owner: {
+        name: 'Niaz Ahmed',
+        contact: '0478329839913',
+        email: 'Niazahmed@gmail.com',
+        message: 'I Serve my Best For You',
 
-    Home: [{
-        soups: [],
-        startr: [],
-        Beef: [],
-        seaFood: [],
-        poultry: [],
-        noodles: [],
-        rice: [],
-    }],
+    },
+    partners: ['John Brown Pty Ltd', 'Tessa Scott', 'Charlotte Nand', 'Clare Smith and Jamie Johnson'],
+    home: [
+        {
+            soups: [
+                {
+                    name: "chicken corn soup",
+                    singleServes: '1-2',
+                    Rs: "265",
+                    familyServes: '4-5',
+                    Rs: "695",
+                },
+                 {
+                    name: 'chickenCornSoup',
+                    singleServes: '1-2',
+                    Rs: "265",
+                    familyServes: '4-5',
+                    Rs: "695",
+                },
+                 {
+                     name:'hotAndSourSoup',
+                    singleServes: '1-2',
+                    Rs: "265",
+                    familyServes: '4-5',
+                    Rs: "695",
+                },
+                 {name:'thaiSoup',
+                    singleServes: '1-2',
+                    Rs: "265",
+                    familyServes: '4-5',
+                    Rs: "695",
+                },
+                 {
+                    name:'tomYumGaiSoup',
+                    singleServes: '1-2',
+                    Rs: "265",
+                    familyServes: '4-5',
+                    Rs: "695",
+                },
+                {name:'tomYumGoongSoup',
+                    singleServes: '1-2',
+                    Rs: "265",
+                    familyServes: '4-5',
+                    Rs: "695",
+                },
+               {  name:'WontonNoodlesoup',
+                    singleServes: '1-2',
+                    Rs: "265",
+                    familyServes: '4-5',
+                    Rs: "695",
+                },
+                {name: 'schezwanSoup',
+                    singleServes: '1-2',
+                    Rs: "265",
+                    familyServes: '4-5',
+                    Rs: "695",
+                },
+               { name:'streetStyleChickenSoupWithSlims', 
+                    singleServes: '1-2',
+                    Rs: "265",
+                    familyServes: '4-5',
+                    Rs: "695",
+                },
+              {  name: 'manchowSoup',
+                    singleServes: '1-2',
+                    Rs: "265",
+                    familyServes: '4-5',
+                    Rs: "695",
+                },
+            ],
+            startr: [
+                   {
+                     name:'dynamiteChicken',
+                        singleServes: '1-2',
+                        Rs: "465",
+                        familyServes: '4-5',
+                        Rs: "895",
+                    },
+                     {
+                         name:'hotTigerPrawnXL',
+                        singleServes: '1-2',
+                        Rs: "465",
+                        familyServes: '4-5',
+                        Rs: "895",
+                    },
+               {     name: 'prawnTempura',
+                        singleServes: '1-2',
+                        Rs: "465",
+                        familyServes: '4-5',
+                        Rs: "895",
+                    },
+                     {
+                        name:'dynamitePrawns',
+                        singleServes: '1-2',
+                        Rs: "465",
+                        familyServes: '4-5',
+                        Rs: "895",
+                    },
+                   {  
+                    name:'prawnBalls',
+                        singleServes: '1-2',
+                        Rs: "465",
+                        familyServes: '4-5',
+                        Rs: "895",
+                    },
+                  {   
+                    name:'butterflyPrawns',
+                        singleServes: '1-2',
+                        Rs: "465",
+                        familyServes: '4-5',
+                        Rs: "895",
+                    },
+                    {
+                        name: 'PrawOnToastWithSesameSeeds',
+                        singleServes: '1-2',
+                        Rs: "465",
+                        familyServes: '4-5',
+                        Rs: "895",
+                    },
+                  { 
+                    name: 'ChickenDrumSticks',
+                        singleServes: '1-2',
+                        Rs: "465",
+                        familyServes: '4-5',
+                        Rs: "895",
+                    },
+                    { 
+                        name:'PaperWrappedChicken',
+                        singleServes: '1-2',
+                        Rs: "465",
+                        familyServes: '4-5',
+                        Rs: "895",
+                    },
+                
+                
+            ],
+            beef: [
+
+                 {
+                    name:'classicBeefChillDry',
+                    singleServes: '1-2',
+                    Rs: "Rs.545",
+                    familyServes: '4-5',
+                    Rs: "765",
+                },
+             {   
+                name:   'classicBeefChilliChickenGravy',
+                    singleServes: '1-2',
+                    Rs: "465",
+                    familyServes: '4-5',
+                    Rs: "895",
+                },
+               {  
+                name:  'ChickenBeefChilliwithlotsOfVeggie',
+                    singleServes: '1-2',
+                    Rs: "465",
+                    familyServes: '4-5',
+                    Rs: "895",
+                },
+           {     
+            name:'cherryBeefChilliChicken',
+                    singleServes: '1-2',
+                    Rs: "465",
+                    familyServes: '4-5',
+                    Rs: "895",
+                },
+          {      
+            name: 'beefDragon',
+                    singleServes: '1-2',
+                    Rs: "465",
+                    familyServes: '4-5',
+                    Rs: "895",
+                },
+                { 
+                    name:'beefButterflyPrawns',
+                    singleServes: '1-2',
+                    Rs: "465",
+                    familyServes: '4-5',
+                    Rs: "895",
+                },
+               {  
+                name:'beefPrawOnToastWithSesameSeeds',
+                    singleServes: '1-2',
+                    Rs: "465",
+                    familyServes: '4-5',
+                    Rs: "895",
+                },
+                { 
+                    name: 'beefDrumSticks',
+                    singleServes: '1-2',
+                    Rs: "465",
+                    familyServes: '4-5',
+                    Rs: "895",
+                },
+             {  
+                name:'beefPaperWrapped',
+                    singleServes: '1-2',
+                    Rs: "465",
+                    familyServes: '4-5',
+                    Rs: "895",
+                },
+
+            
+            ],
+
+            Dessert: { ChocolateFudgeCake: "smaall" }
+
+
+        }],
     about: "Life’s good when you get to live the finest Chinese experience with top quality food served in a pleasant environment. At Ginsoy we promise you this and much more. As the “Extreme Chinese” name suggests, Ginsoy was created with an inspiration to bring unique, striking and flavorful Chinese cuisine to Pakistan.",
     resrvation: [
         {
@@ -22,99 +227,204 @@ let ginsoy = {
             northNazimabad: '021376648900033'
         }
     ],
-    menu: [],
+    drink: [
+        
+         {   
+              name:'softdrink',
+                singleServes: '1-2',
+                Rs: "265",
+                familyServes: '4-5',
+                Rs: "695",
+            },
+        {   
+             name:'mineralWater', 
+                singleServes: '1-2',
+                Rs: "265",
+                familyServes: '4-5',
+                Rs: "695",
+            },
+         {  
+               name:'pinaColada',
+                singleServes: '1-2',
+                Rs: "265",
+                familyServes: '4-5',
+                Rs: "695",
+            },
+         { 
+               name: 'blueColada',
+                singleServes: '1-2',
+                Rs: "265",
+                familyServes: '4-5',
+                Rs: "695",
+            },
+        
+    ],
     order: {
 
-        soups: {
-            chickenCornSoup: {
+        
+        soups: [
+            {
+                name: "chicken corn soup",
                 singleServes: '1-2',
                 Rs: "265",
                 familyServes: '4-5',
                 Rs: "695",
             },
-            hotAndSourSoup: {
+             {
+                name: 'chickenCornSoup',
                 singleServes: '1-2',
                 Rs: "265",
                 familyServes: '4-5',
                 Rs: "695",
             },
-            thaiSoup: {
+             {
+                 name:'hotAndSourSoup',
                 singleServes: '1-2',
                 Rs: "265",
                 familyServes: '4-5',
                 Rs: "695",
             },
-            tomYumGaiSoup: {
+             {name:'thaiSoup',
                 singleServes: '1-2',
                 Rs: "265",
                 familyServes: '4-5',
                 Rs: "695",
             },
-            tomYumGoongSoup: {
+             {
+                name:'tomYumGaiSoup',
                 singleServes: '1-2',
                 Rs: "265",
                 familyServes: '4-5',
                 Rs: "695",
             },
-            WontonNoodlesoup: {
+            {name:'tomYumGoongSoup',
                 singleServes: '1-2',
                 Rs: "265",
                 familyServes: '4-5',
                 Rs: "695",
             },
-            schezwanSoup: {
+           {  name:'WontonNoodlesoup',
                 singleServes: '1-2',
                 Rs: "265",
                 familyServes: '4-5',
                 Rs: "695",
             },
-            streetStyleChickenSoupWithSlims: {
+            {name: 'schezwanSoup',
                 singleServes: '1-2',
                 Rs: "265",
                 familyServes: '4-5',
                 Rs: "695",
             },
-            manchowSoup: {
+           { name:'streetStyleChickenSoupWithSlims', 
                 singleServes: '1-2',
                 Rs: "265",
                 familyServes: '4-5',
                 Rs: "695",
             },
+          {  name: 'manchowSoup',
+                singleServes: '1-2',
+                Rs: "265",
+                familyServes: '4-5',
+                Rs: "695",
+            },
+        ],
 
-        },
-
-        starter: {
-            dynamiteChicken: {
+        starter: [
+            {
+                name:'dynamiteChicken',
+                   singleServes: '1-2',
+                   Rs: "465",
+                   familyServes: '4-5',
+                   Rs: "895",
+               },
+                {
+                    name:'hotTigerPrawnXL',
+                   singleServes: '1-2',
+                   Rs: "465",
+                   familyServes: '4-5',
+                   Rs: "895",
+               },
+          {     name: 'prawnTempura',
+                   singleServes: '1-2',
+                   Rs: "465",
+                   familyServes: '4-5',
+                   Rs: "895",
+               },
+                {
+                   name:'dynamitePrawns',
+                   singleServes: '1-2',
+                   Rs: "465",
+                   familyServes: '4-5',
+                   Rs: "895",
+               },
+              {  
+               name:'prawnBalls',
+                   singleServes: '1-2',
+                   Rs: "465",
+                   familyServes: '4-5',
+                   Rs: "895",
+               },
+             {   
+               name:'butterflyPrawns',
+                   singleServes: '1-2',
+                   Rs: "465",
+                   familyServes: '4-5',
+                   Rs: "895",
+               },
+               {
+                   name: 'PrawOnToastWithSesameSeeds',
+                   singleServes: '1-2',
+                   Rs: "465",
+                   familyServes: '4-5',
+                   Rs: "895",
+               },
+             { 
+               name: 'ChickenDrumSticks',
+                   singleServes: '1-2',
+                   Rs: "465",
+                   familyServes: '4-5',
+                   Rs: "895",
+               },
+               { 
+                   name:'PaperWrappedChicken',
+                   singleServes: '1-2',
+                   Rs: "465",
+                   familyServes: '4-5',
+                   Rs: "895",
+               },
+            ],
+        poultry: {
+            classicChilliChickenDry: {
+                singleServes: '1-2',
+                Rs: "Rs.545",
+                familyServes: '4-5',
+                Rs: "765",
+            },
+            classicChilliChickenGravy: {
                 singleServes: '1-2',
                 Rs: "465",
                 familyServes: '4-5',
                 Rs: "895",
             },
-            hotTigerPrawnXL: {
+            chickenChilliwithlotsOfVeggies: {
                 singleServes: '1-2',
                 Rs: "465",
                 familyServes: '4-5',
                 Rs: "895",
             },
-            prawnTempura: {
+            cherryChilliChicken: {
                 singleServes: '1-2',
                 Rs: "465",
                 familyServes: '4-5',
                 Rs: "895",
             },
-            dynamitePrawns: {
+            dragonChicken: {
                 singleServes: '1-2',
                 Rs: "465",
                 familyServes: '4-5',
                 Rs: "895",
             },
-            prawnBalls: {
-                singleServes: '1-2',
-                Rs: "465",
-                familyServes: '4-5',
-                Rs: "895",
-            },
-            ButterflyPrawns: {
+            butterflyPrawns: {
                 singleServes: '1-2',
                 Rs: "465",
                 familyServes: '4-5',
@@ -139,17 +449,73 @@ let ginsoy = {
                 Rs: "895",
             },
 
-        }
+        },
+        beef: {
+            classicBeefChillDry: {
+                singleServes: '1-2',
+                Rs: "Rs.545",
+                familyServes: '4-5',
+                Rs: "765",
+            },
+            ClassicBeefChilliChickenGravy: {
+                singleServes: '1-2',
+                Rs: "465",
+                familyServes: '4-5',
+                Rs: "895",
+            },
+            ChickenBeefChilliwithlotsOfVeggies: {
+                singleServes: '1-2',
+                Rs: "465",
+                familyServes: '4-5',
+                Rs: "895",
+            },
+            cherryBeefChilliChicken: {
+                singleServes: '1-2',
+                Rs: "465",
+                familyServes: '4-5',
+                Rs: "895",
+            },
+            beefDragon: {
+                singleServes: '1-2',
+                Rs: "465",
+                familyServes: '4-5',
+                Rs: "895",
+            },
+            beefButterflyPrawns: {
+                singleServes: '1-2',
+                Rs: "465",
+                familyServes: '4-5',
+                Rs: "895",
+            },
+            beefPrawOnToastWithSesameSeeds: {
+                singleServes: '1-2',
+                Rs: "465",
+                familyServes: '4-5',
+                Rs: "895",
+            },
+            beefDrumSticks: {
+                singleServes: '1-2',
+                Rs: "465",
+                familyServes: '4-5',
+                Rs: "895",
+            },
+            beefPaperWrapped: {
+                singleServes: '1-2',
+                Rs: "465",
+                familyServes: '4-5',
+                Rs: "895",
+            },
 
+        }
 
     },
     online: [],
     feeback: [
         {
             Info: 'We’re glad to hear from you. Use this feedback from to provide more information about Ginsoy. You may also find the information you’re seeking in Frequently Asked Questions.',
-            name: 'Abc',
+            name: 'Xyz',
             contact: '0478329839913',
-            email: 'abs@gmail.com',
+            email: 'XYZ@gmail.com',
             message: 'hi you are amazing',
         }
     ],
@@ -176,14 +542,16 @@ let ginsoy = {
             }
         ]
     }],
-    location: [
+    location: 
         {
             googleMapMain: 'https://www.google.com/maps/dir//24.8640325,67.0549276/@24.864033,67.054928,11z?hl=en-US',
-            others: [],
+            faceBook: "www,facebook.com",
+            InstaGram: "www,insat.com",
+            twitter: "www,twiter.com",
 
         }
 
-    ],
+    ,
 
 
 }
